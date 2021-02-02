@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev)
+- 🔭 I’m currently working on [Flutter](https://flutter.dev), [C++](https://isocpp.org/), [Java](https://www.oracle.com/in/java/)
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
