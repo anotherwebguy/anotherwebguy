@@ -76,8 +76,13 @@ Here are some ideas to get you started:
   
   [![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=anotherwebguy&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby)](https://github.com/anotherwebguy)&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherwebguy&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anotherwebguy)
-
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anotherwebguy.anotherwebguy)
+  
 </details>
+<br />
+
+
+
 
 ---
 
