@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently developing Android/IOS Applications in [Flutter](https://flutter.dev), [C++](https://isocpp.org/), [Java](https://www.oracle.com/in/java/)
+- 🔭 I’m currently developing Android/IOS Applications in [Flutter](https://flutter.dev).
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
