@@ -24,23 +24,28 @@ Here are some ideas to get you started:
 
 ## 👯&nbsp;Connect with me:
 
-<a href="https://www.linkedin.com/in/mohit-singh-bb50a81a5" target="_blank">
-  <img align="left" alt="Mohit's LinkdeIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
-</a>
+
 <a href="https://www.codechef.com/users/anonymous2001" target="_blank">
-  <img align="left" alt="Mohit's Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg" />
+  <img align="left" alt="Mohit's Codechef" width="50" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
 
 <a href="https://codeforces.com/profile/anonymous2001">
-  <img align="left" alt="Mohit's Leetcode" width="22px" src="https://api.iconify.design/simple-icons:codeforces.svg" />
+  <img align="left" alt="Mohit's Leetcode" width="50" src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" />
+</a>&nbsp;&nbsp;&nbsp; 
+
+</br>
+</br>
+
+<a href="https://www.linkedin.com/in/mohit-singh-bb50a81a5" target="_blank">
+  <img align="left" alt="Mohit's LinkdeIn" width="35px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 
 <a href="https://www.instagram.com/mohit_._s/" target="_blank">
-  <img align="left" alt="Mohit's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/instagram-new/512/instagram-logo-color-512.png" />
+  <img align="left" alt="Mohit's Instagram" width="35px" src="https://cdn2.iconfinder.com/data/icons/instagram-new/512/instagram-logo-color-512.png" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100013419913254" target="_blank">
-  <img align="left" alt="Mohit's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+  <img align="left" alt="Mohit's Facebook" width="35px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
 <br />
