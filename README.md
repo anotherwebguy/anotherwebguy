@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently developing Android/IOS Applications in [Flutter](https://flutter.dev).
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to draw and listening music
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute to Open Source projects.
+- ⚡ Fun fact: I love to draw and listening music.
 - 📧 How to reach me mohitrajputms123@gmail.com
 
 ## 👯&nbsp;Connect with me:
