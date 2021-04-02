@@ -70,15 +70,25 @@ Here are some ideas to get you started:
 
 ---
 
+<h1 align="center">
+  <br/>
+    <code align="center">
+      :Github Profile Stats:
+    </code>
+</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anotherwebguy&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/anotherwebguy)
+
 <details>
   <summary><strong>⭐️ My Github Stats</strong></summary>
   <br>
   
-  [![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=anotherwebguy&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby)](https://github.com/anotherwebguy)
+  [![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=anotherwebguy&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby)](https://github.com/anotherwebguy)&nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherwebguy&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anotherwebguy)
   <br />
   [![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anotherwebguy&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/anotherwebguy/github-readme-stats)
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherwebguy&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anotherwebguy)
+  
 
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anotherwebguy.anotherwebguy)
   
