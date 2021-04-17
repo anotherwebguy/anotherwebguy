@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/Mohit Singh's-cover.png" />
+
+
 ### Hi there, I'am Mohit 👋
 
 <!--
