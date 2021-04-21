@@ -117,6 +117,10 @@ Here are some ideas to get you started:
 
 ---
 
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=anotherwebguy&theme=redical)](https://github.com/anotherwebguy/github-readme-activity-graph)
+
+---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anotherwebguy.anotherwebguy)
 
 ---
