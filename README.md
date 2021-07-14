@@ -84,11 +84,12 @@ Here are some ideas to get you started:
     </code>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/anotherwebguy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=anotherwebguy&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
-  </a>
-</p>
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img src="https://github-profile-trophy.vercel.app/?username=anotherwebguy&theme=nord&column=7" alt="Trophies" />
+    </a>
+  </div>
+
 
 
 <br/>
@@ -96,28 +97,57 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/anotherwebguy">
     <img height="150" width="175" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anotherwebguy&theme=dark&hide_border=true"/>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img
+        align="center"
+        width="396" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=anotherwebguy&theme=react&border=61dafb&hide_border=true"
+        alt="zumrudu-anka"
+      />
+    </a>
     <img height="150" width="175" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/right.png">
   </a>
 </p>
 
 <details open="">
-  <summary><strong>⭐️ My Github Stats</strong></summary>
+  <summary><strong>📈 My Github Stats</strong></summary>
   <br>
   
-  <p align="center">
-    <a href="https://github.com/anotherwebguy">
-      <img width="65%" src="https://github-readme-stats.vercel.app/api?username=anotherwebguy&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby" />
-      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotherwebguy&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook" />
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img
+        align="center"
+        width="65%"
+        src="https://github-readme-stats.vercel.app/api?username=anotherwebguy&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+      />
     </a>
-  </p>
+  </div>
+  <br />
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        width="35%"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotherwebguy&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+      />
+    </a>
+  </div>
   
 </details>
 <br />
 
 ---
 
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=anotherwebguy&theme=redical)](https://github.com/anotherwebguy/github-readme-activity-graph)
+<div align="center">
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
+      <img
+        src="https://activity-graph.herokuapp.com/graph?username=anotherwebguy&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
+        alt="Contributions Graph"
+        width="100%"
+      />
+    </a>
+ </div>
+
 
 ---
 
