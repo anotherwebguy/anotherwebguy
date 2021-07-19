@@ -79,7 +79,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=blue" />
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=nodedotjs&style=for-the-badge&color=red" />
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
@@ -168,6 +167,8 @@ Here are some ideas to get you started:
 <p align="center">
     <h3 align="center"> Show some ❤️ by starring some of the repositories!!</h3>
  </p>
+
+<img align="center" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/footer.png" />
 
 
 
