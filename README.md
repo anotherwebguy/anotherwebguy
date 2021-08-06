@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    Hi there 👋, I'm <b>Mohit Singh</b>. Currently pursuing my Third year of <b>Bachelor of Engineering</b> in <b>Computer Engineering</b>. I'm a <b>Software Developer</b> who is passionate about contributing to <b>open-source projects</b>, developing <b>Android applications</b>, creating technology to elevate people, and building <b>community</b>.
+    Hi there 👋, I'm <b>Mohit Singh</b>. Currently pursuing my Third year of <b>Bachelor of Engineering</b> in <b>Computer Engineering</b>. I'm a <b>Software Developer</b> & a <b> keen learner </b> who is passionate about contributing to <b>open-source projects</b>, developing <b>Android & Web applications</b>, creating technology to elevate people, and building <b>community</b>.
   </em>
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently developing Android/IOS Applications in [Flutter](https://flutter.dev).
-- 🌱 I’m currently learning web development.
-- 👯 I’m looking to collaborate with other content creators.
+- 🌱 I’m currently learning Full Stack Development & Machine Learning.
+- 💻 I love to explore new technologies.
 - 🥅 2021 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: I love to draw and listening to music.
 - 📧 How to reach me mohitrajputms123@gmail.com
 
 <h1>
