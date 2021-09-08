@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently developing Android/IOS Applications in [Flutter](https://flutter.dev).
+- 🔭 I’m currently developing Android/IOS Applications in [Flutter.](https://flutter.dev).
 - 🌱 I’m currently learning Full Stack Development & Machine Learning.
 - 💻 I love to explore new technologies.
 - 🥅 2021 Goals: Contribute to Open Source projects.
