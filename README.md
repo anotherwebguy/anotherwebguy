@@ -15,14 +15,7 @@ Here are some ideas to get you started:
   </em>
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently developing Android/IOS Applications in [Flutter.](https://flutter.dev).
-- 🌱 I’m currently learning Full Stack Development & Machine Learning.
-- 💻 I love to explore new technologies.
-- 🥅 2021 Goals: Contribute to Open Source projects.
-- 📧 How to reach me mohitrajputms123@gmail.com
 
 <h1>
   Connect With Me <a target="_blank">
