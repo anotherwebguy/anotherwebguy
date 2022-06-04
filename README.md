@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </h1>
 
 
-<a href="https://www.codechef.com/users/anonymous2001" target="_blank">
+<a href="https://www.codechef.com/users/gumshuda" target="_blank">
   <img align="left" alt="Mohit's Codechef" width="50" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
 
