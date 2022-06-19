@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=anotherwebguy&theme=nord&column=7" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=anotherwebguy&theme=nord&column=8" alt="Trophies" />
     </a>
   </div>
 
