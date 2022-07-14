@@ -64,6 +64,8 @@ Here are some ideas to get you started:
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=red" />
+    <img alt="Django" src ="https://img.shields.io/badge/django-%2307405e.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="React" src ="https://img.shields.io/badge/react-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white"/>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/Dart-%2302569B.svg?style=for-the-badge&logo=Dart&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%2302569B.svg?style=for-the-badge&logo=Firebase&logoColor=yellow" />
