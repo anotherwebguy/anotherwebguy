@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/Mohit cover.png" />
+<img align="center" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/output2.png" />
 
 
 ### Hi there, I'am Mohit 👋
@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 
 <a href="https://codeforces.com/profile/anonymous2001">
   <img align="left" alt="Mohit's Codeforces" width="50" src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" />
+  
+<a href="https://leetcode.com/anonymous2001/">
+  <img align="left" alt="Mohit's LeetCode" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
+  
+<a href="https://www.hackerrank.com/mohitrajputms123">
+  <img align="left" alt="Mohit's Codeforces" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
 
 <br />
