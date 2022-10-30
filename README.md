@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-
+<!--
 <h1>
   Connect With Me <a target="_blank">
   <img src="https://github.com/anotherwebguy/anotherwebguy/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
@@ -53,12 +53,13 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100013419913254" target="_blank">
   <img align="left" alt="Mohit's Facebook" width="50px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
+-->
 
 <br />
 <br />
 <br />
-
-
+<br />
+<br />
 
 
 
