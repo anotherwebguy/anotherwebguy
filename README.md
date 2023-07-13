@@ -150,7 +150,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![anotherwebguy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anotherwebguy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anotherwebguy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anotherwebguy&theme=github)]()
   
 <!-- <div align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
