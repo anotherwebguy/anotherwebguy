@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=anotherwebguy&theme=nord&column=8" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=anotherwebguy&column=3&margin-w=15&margin-h=15" alt="Trophies" />
     </a>
   </div>
 
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
         align="center"
         width="396" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=anotherwebguy&theme=react&border=61dafb&hide_border=true"
-        alt="zumrudu-anka"
+        alt="Mohit"
       />
     </a>
     <img height="150" width="175" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/right.png">
