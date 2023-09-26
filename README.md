@@ -130,7 +130,7 @@ Here are some ideas to get you started:
        <img
         align="center"
         width="65%"
-        src="https://github-readme-stats.vercel.app/api?username=anotherwebguy&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=anotherwebguy&show_icons=true&theme=flag-india&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
@@ -140,7 +140,7 @@ Here are some ideas to get you started:
       <img
         width="35%"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotherwebguy&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotherwebguy&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=donut-vertical&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
