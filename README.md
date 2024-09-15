@@ -50,10 +50,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Mohit's Instagram" width="50px" src="https://cdn2.iconfinder.com/data/icons/instagram-new/512/instagram-logo-color-512.png" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100013419913254" target="_blank">
-  <img align="left" alt="Mohit's Facebook" width="50px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
 <br />
 <br />
 <br />
